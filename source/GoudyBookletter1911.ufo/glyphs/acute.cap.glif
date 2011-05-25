@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute.cap" format="1">
+  <advance width="282"/>
+  <outline>
+    <contour>
+      <point x="205" y="899"/>
+      <point x="187" y="886"/>
+      <point x="174" y="876" type="curve" smooth="yes"/>
+      <point x="36" y="776" type="line"/>
+      <point x="24" y="768"/>
+      <point x="17" y="760"/>
+      <point x="17" y="750" type="curve" smooth="yes"/>
+      <point x="17" y="738"/>
+      <point x="27" y="730"/>
+      <point x="37" y="730" type="curve" smooth="yes"/>
+      <point x="46" y="730"/>
+      <point x="45" y="731"/>
+      <point x="224" y="816" type="curve" smooth="yes"/>
+      <point x="238" y="823"/>
+      <point x="265" y="834"/>
+      <point x="265" y="863" type="curve" smooth="yes"/>
+      <point x="265" y="884"/>
+      <point x="246" y="899"/>
+      <point x="225" y="899" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>
