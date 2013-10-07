@@ -10,6 +10,7 @@
 */
 @font-face {
   font-family: 'Goudy Bookletter 1911';
+  src: url('goudy_bookletter_1911-webfont.eot'),
   src: url('goudy_bookletter_1911-webfont.eot?#iefix') format('embedded-opentype'),
        url('goudy_bookletter_1911-webfont.woff') format('woff'),
        url('goudy_bookletter_1911-webfont.ttf')  format('truetype'),
