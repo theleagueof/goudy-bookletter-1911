@@ -1,0 +1,18 @@
+/*
+  'Goudy Bookletter 1911'
+  https://www.theleagueofmoveabletype.com/goudy-bookletter-1911
+
+  Copyright (c) 2009, Barry Schwartz <site-chieftain@crudfactory.com>,
+  with Reserved Font Name OFL "Goudy Bookletter 1911".
+
+  This Font Software is licensed under the SIL Open Font License, Version 1.1.
+  http://scripts.sil.org/OFL
+*/
+@font-face {
+  font-family: 'Goudy Bookletter 1911';
+  src: url('goudy_bookletter_1911-webfont.eot');
+  src: url('goudy_bookletter_1911-webfont.eot?#iefix') format('embedded-opentype'),
+       url('goudy_bookletter_1911-webfont.woff') format('woff'),
+       url('goudy_bookletter_1911-webfont.ttf')  format('truetype'),
+       url('goudy_bookletter_1911-webfont.svg#webfontiT6p4ac4') format('svg');
+}
